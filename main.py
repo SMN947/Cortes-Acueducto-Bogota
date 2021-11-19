@@ -28,8 +28,6 @@ if __name__ == '__main__':
     for tabla in tablas:
         if len(tabla.find_all("tr")) > 0:
             filas = tabla.find_all("tr")
-            count += 1
-            print("Procesando tabla " + str(count) + " que contiene " + str(len(filas)) + " filas")
             fecha = ""
             localidad = ""
             barrios = ""
@@ -48,15 +46,10 @@ if __name__ == '__main__':
                         cols = fila.find_all("td")
                         localidad = cols[0].font.get_text()
                         barrios = cols[1].font.get_text()
-                        #lugar = cols[2].font.get_text()
+                        lugar = cols[2].font.get_text()
                         inicio = getInicio(cols[3])
-                        #motivo = cols[4].font.get_text()
-
-                        print(cols[3])
-                        print()
-                    
+                        motivo = cols[4].font.get_text()
                         rows.append([fecha, localidad, barrios, lugar, inicio, motivo])
 
     writer.writerows(rows)
     f.close()
-

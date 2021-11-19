@@ -1,20 +1,20 @@
 fecha,localidad,barrios,lugar,inicioDuracion,motivo,cl
-Martes 16 de noviembre de 2021,Bosa,Manzanares.,,Desde las 10:00 a.m. y por 24 horas,
-Martes 16 de noviembre de 2021,Kennedy,"Casa Blanca, Pastrana y Roma.",,Desde las 10:00 a.m. y por 24 horas,
-Martes 16 de noviembre de 2021,Los Mártires,Santa Isabel.,,Desde las 05:00 p.m. y por 17 horas,
-Miércoles 17 de noviembre de 2021,Usaquén,"Usaquén, Santa Ana.",,Desde las 10:00 a.m. y por 24 horas,
-Miércoles 17 de noviembre de 2021,Engativá,Santa Cecilia.,,Desde las 09:00 a.m. y por 24 horas,
-Miércoles 17 de noviembre de 2021,Puente Aranda,"Gaitán Cortés, Remanso.",,Desde las 08:00 a.m. y por 24 horas,
-Miércoles 17 de noviembre de 2021,Soacha,Ciudad Latina.,,Desde las 10:00 a.m. y por 24 horas,
-Miércoles 17 de noviembre de 2021,Kennedy,Ciudad Kennedy Oriental y Ciudad Kennedy Central.,,Desde las 10:00 a.m. y por 24 horas,
-Miércoles 17 de noviembre de 2021,Usme,La Andrea y Santa Librada Norte.,,Desde las 10:00 a.m. y por 24 horas,
-Miércoles 17 de noviembre de 2021,Suba,"Los Naranjos, Jordán, La Aguadita, El Japón, , La Manuelita, Hunza, El Jardín, Campanella, El Pinar de Suba, La Pradera de Suba, Turingia II, El Rubí, El Tabor, Rincón, El Laguito, Costa Rica, La Palma, Corinto, La Estanzuela, Atenas, Santa Barbara, Nueva Colombia, Lagos de Suba, Gloria Lara de Echeverry, Aures, El Rosal, Prados de Santa Barbara, Tibabuyes, El Lago, Los Pórticos, Simón Bolívar, Gaitana, Villa María, Costa Azul, Potreritos, Villa Elisa, Provenza, Las Terrazas, Antonio Granados, El Carmelo, La Campiña, San Francisco, Casas Fiscales, El Poa, Las Flores, Berlín, San Pedro, Lisboa, Santa Cecilia, Tuna, Lombardía, Turingia, Pradera de Suba, Almendros, Ciudadela Albatros, Bilbao, San Andrés, Parques del Campo, Casablanca, El Salitre, Monarcas, Londres, Compartir, Rincón de Santa Inés, Antonio Granados, Puerta del Sol, Los Nogales, Miramar.",,Desde las 01:00 p.m. y por 3 horas,
-Jueves 18 de noviembre de 2021,Suba,"Tibabuyes II, Sabana de Tibabuyes, Sabana de Tibabuyes Norte.",,Desde las 08:00 a.m. y por 24 horas,
-Jueves 18 de noviembre de 2021,Chapinero,Los Rosales.,,Desde las 09:00 a.m. y por 24 horas,
-Jueves 18 de noviembre de 2021,Chapinero,El Bagazal.,,Desde las 09:00 a.m. y por 24 horas,
-Jueves 18 de noviembre de 2021,Kennedy,Marsella.,,Desde las 08:00 a.m. y por 24 horas,
-Jueves 18 de noviembre de 2021,Los Mártires,"San Victorino, La Favorita y Santafé.",,Desde las 08:00 a.m. y por 24 horas,
-Jueves 18 de noviembre de 2021,Bosa,Bosa Santafé.,,Desde las 10:00 a.m. y por 24 horas,
-Jueves 18 de noviembre de 2021,Usme,"Marichuela, San Juan Bautista y Valles de Cafam.",,Desde las 10:00 a.m. y por 24 horas,
-Jueves 18 de noviembre de 2021,Soacha,"Quintanares, Julio Rincón, Santillana, Villa Sandra.",,Desde las 10:00 a.m. y por 4 horas,
-Jueves 18 de noviembre de 2021,Usme,"Granada Sur, La Aurora y Nuevo San Andrés.",,Desde las 10:00 a.m. y por 24 horas,
+Martes 16 de noviembre de 2021,Bosa,Manzanares.,"De la Carrera 75H a la Carrera 75, entre la Calle 75 Sur a la Calle 78 Sur.",Desde las 10:00 a.m. y por 24 horas,Taponamiento red acueducto
+Martes 16 de noviembre de 2021,Kennedy,"Casa Blanca, Pastrana y Roma.","De la Calle 45 Sur a la Avenida Calle 55 Sur, entre la Avenida Primera de Mayo (Carrera 79C Bis A) a la Avenida Carrera 80.",Desde las 10:00 a.m. y por 24 horas,Mantenimiento preventivo
+Martes 16 de noviembre de 2021,Los Mártires,Santa Isabel.,"De la Calle 8 Sur a la Calle 3, entre la Carrera 24 a la Carrera 30.",Desde las 05:00 p.m. y por 17 horas,Instalación accesorio red acueducto
+Miércoles 17 de noviembre de 2021,Usaquén,"Usaquén, Santa Ana.","De la Carrera 2 a la Carrera 7, entre la Calle 108 a la Calle 121.",Desde las 10:00 a.m. y por 24 horas,Empates red acueducto
+Miércoles 17 de noviembre de 2021,Engativá,Santa Cecilia.,"De la Calle 53 a la Calle 63, entre la Carrera 72 a la Carrera 86.",Desde las 09:00 a.m. y por 24 horas,Instalación accesorio red acueducto
+Miércoles 17 de noviembre de 2021,Puente Aranda,"Gaitán Cortés, Remanso.","De la Avenida Calle 3 a la Diagonal 16 Sur, entre la Carrera 36 a la Avenida Carrera 50.",Desde las 08:00 a.m. y por 24 horas,Cambio de válvulas
+Miércoles 17 de noviembre de 2021,Soacha,Ciudad Latina.,"De la Carrera 15 a la Carrera 17, entre la Calle 16 Sur a la Calle 30 Sur.",Desde las 10:00 a.m. y por 24 horas,Empate red acueducto
+Miércoles 17 de noviembre de 2021,Kennedy,Ciudad Kennedy Oriental y Ciudad Kennedy Central.,"De la Calle 37 Sur a la Calle 41 Sur, entre la Carrera 78B a la Carrera 78K.",Desde las 10:00 a.m. y por 24 horas,Mantenimiento preventivo
+Miércoles 17 de noviembre de 2021,Usme,La Andrea y Santa Librada Norte.,"De la Calle 72 Sur a la Calle 77 Sur, entre la Carrera 14 a la Carrera 7.",Desde las 10:00 a.m. y por 24 horas,Mantenimiento preventivo
+Miércoles 17 de noviembre de 2021,Suba,"Los Naranjos, Jordán, La Aguadita, El Japón, , La Manuelita, Hunza, El Jardín, Campanella, El Pinar de Suba, La Pradera de Suba, Turingia II, El Rubí, El Tabor, Rincón, El Laguito, Costa Rica, La Palma, Corinto, La Estanzuela, Atenas, Santa Barbara, Nueva Colombia, Lagos de Suba, Gloria Lara de Echeverry, Aures, El Rosal, Prados de Santa Barbara, Tibabuyes, El Lago, Los Pórticos, Simón Bolívar, Gaitana, Villa María, Costa Azul, Potreritos, Villa Elisa, Provenza, Las Terrazas, Antonio Granados, El Carmelo, La Campiña, San Francisco, Casas Fiscales, El Poa, Las Flores, Berlín, San Pedro, Lisboa, Santa Cecilia, Tuna, Lombardía, Turingia, Pradera de Suba, Almendros, Ciudadela Albatros, Bilbao, San Andrés, Parques del Campo, Casablanca, El Salitre, Monarcas, Londres, Compartir, Rincón de Santa Inés, Antonio Granados, Puerta del Sol, Los Nogales, Miramar.","De la Calle 119 a la Calle 170, entre la Carrera 81 a el Rio Bogotá.",Desde las 01:00 p.m. y por 3 horas,Verificación Macromedidor
+Jueves 18 de noviembre de 2021,Suba,"Tibabuyes II, Sabana de Tibabuyes, Sabana de Tibabuyes Norte.","De la Carrera 136A a la Carrera 150D, entre la Calle 144 a la Calle 151.",Desde las 08:00 a.m. y por 24 horas,Mantenimiento preventivo
+Jueves 18 de noviembre de 2021,Chapinero,Los Rosales.,"De la Calle 80 a la Calle 94, entre la Carrera 7 a la Carrera 2 Este.",Desde las 09:00 a.m. y por 24 horas,Empates red acueducto
+Jueves 18 de noviembre de 2021,Chapinero,El Bagazal.,"De la Calle 68 a la Calle 80, entre la Carrera 7 a la Carrera 2 Este.",Desde las 09:00 a.m. y por 24 horas,Empates red acueducto
+Jueves 18 de noviembre de 2021,Kennedy,Marsella.,"De la Avenida Calle 6 a la Calle 12, entre la Carrera 68G a la Carrera 72 o Avenida Boyacá.",Desde las 08:00 a.m. y por 24 horas,Empates red acueducto
+Jueves 18 de noviembre de 2021,Los Mártires,"San Victorino, La Favorita y Santafé.","De la Avenida Calle 13 a la Avenida Calle 26, entre la Avenida Carrera 14 a la Carrera 19.",Desde las 08:00 a.m. y por 24 horas,Cambio accesorio red acueducto
+Jueves 18 de noviembre de 2021,Bosa,Bosa Santafé.,"De la Calle 43 Sur a la Calle 59 Sur, entre la Carrera 89 a la Carrera 100.",Desde las 10:00 a.m. y por 24 horas,Empate red acueducto
+Jueves 18 de noviembre de 2021,Usme,"Marichuela, San Juan Bautista y Valles de Cafam.","De la Calle 73C Sur a la Calle 93 Sur, entre la Carrera 14 a la Carrera 15.",Desde las 10:00 a.m. y por 24 horas,Mantenimiento preventivo
+Jueves 18 de noviembre de 2021,Soacha,"Quintanares, Julio Rincón, Santillana, Villa Sandra.","De la Calle 44 a la Calle 49C, entre la Transversal 9 a la Carrera 21C.",Desde las 10:00 a.m. y por 4 horas,Verificación Macromedidor
+Jueves 18 de noviembre de 2021,Usme,"Granada Sur, La Aurora y Nuevo San Andrés.","De la Calle 65 Sur a la Calle 73C Sur, entre la Carrera 14 a la Carrera 15.",Desde las 10:00 a.m. y por 24 horas,Mantenimiento preventivo
